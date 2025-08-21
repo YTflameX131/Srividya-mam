@@ -1,0 +1,29 @@
+body {
+  background-image: linear-gradient(to right, #25aae1, #4481eb, #04befe, #3f86ed);
+  color: #fff;
+  text-align: center;
+  padding: 20px;
+}
+
+.logo {
+  display: block;
+  margin: 20px auto;
+  max-width: 200px;
+}
+
+.textee h1 {
+  color: #cfcfcf;
+  text-align: center;
+  font-size: 48px;
+  font-weight: bold;
+  color: white;
+  padding: 40px 20px;
+}
+
+.textee p {
+  color: #b3b1b1;
+  text-align: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: white;
+}
