@@ -8,7 +8,7 @@ body {
 .logo {
   display: block;
   margin: 20px auto;
-  max-width: 200px;
+  max-width: 350px;
 }
 
 .textee h1 {
@@ -27,3 +27,4 @@ body {
   font-weight: bold;
   color: white;
 }
+
